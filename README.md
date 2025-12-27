@@ -26,4 +26,4 @@ Tahapan pengerjaan dalam project ini meliputi:
 - Visual Studio Code  
 
 # Video Penjelasan
-()
+(https://youtu.be/CAR_FOYozKQ?feature=shared)
